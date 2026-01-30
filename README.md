@@ -5,7 +5,7 @@ A clean, professional, and responsive resume website built entirely with plain H
 ## 🚀 Live Demo
 
 You can view the live version of my resume here:
-[GitHub Pages Link](https://insohamdas.github.io/Resume-website-in-HTML/)
+[Live Demo on Vercel](https://resume-website-in-html.vercel.app/)
 
 ## 🛠️ Setup Instructions
 
